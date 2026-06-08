@@ -1,1 +1,4 @@
-.env\nvenv/\n__pycache__/\n*.pyc
+.env
+venv/
+__pycache__/
+*.pyc
